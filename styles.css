@@ -18,8 +18,20 @@ header {
 
 /* ヘッダーのスタイル */
 h1 {
-    font-size: 32px;
-    font-style: italic;
+    border-bottom: solid 2px #333;;
+}
+
+h2 {
+    background: rgb(231, 208, 174);
+    padding: 15px;
+}
+
+.last-update {
+    margin: 5px 0 20px;
+}
+
+.conetnt {
+    margin: 20px 0;
 }
 
 /* ナビゲーションメニュー */
